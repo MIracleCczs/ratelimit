@@ -23,7 +23,7 @@
     <properties>
         <guava.version>18.0</guava.version>
         <spring.version>4.3.20.RELEASE</spring.version>
-        <jackson.version>2.10.1</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
         <aspect.version>1.8.13</aspect.version>
         <log.version>1.7.30</log.version>
         <servlet.version>4.0.1</servlet.version>
